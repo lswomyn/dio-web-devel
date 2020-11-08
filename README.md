@@ -2,5 +2,6 @@
 ## HTML Web Developper Bootcamp
 ### Introduçao a criacao de websites com HTML5 e CSS3
 
-- Estrutura básica
-- Aprendendo o que é semântica
+- Basic structure
+- Learning about semantics
+- How to use texts and links in HTML
