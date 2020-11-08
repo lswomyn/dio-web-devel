@@ -18,3 +18,4 @@ _____
 - Stylizing elements, text and lists
 - Dimension and aligning
 
+//to center images, display:block; and margin:0 auto;
