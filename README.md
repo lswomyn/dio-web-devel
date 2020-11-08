@@ -5,3 +5,4 @@
 - Basic structure
 - Learning about semantics
 - How to use texts and links in HTML
+- How to insert images in your site
